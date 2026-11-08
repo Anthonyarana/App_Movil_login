@@ -10,7 +10,7 @@ android {
 
     defaultConfig {
         applicationId = "com.uteq.software.holamundo_is2026_2"
-        minSdk = 24
+        minSdk = 34
         targetSdk = 37
         versionCode = 1
         versionName = "1.0"
