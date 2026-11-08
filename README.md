@@ -28,11 +28,11 @@ La interfaz usa componentes de Material Design (`TextInputLayout` con estilo *Ou
 
 ## Detalles técnicos
 
-- **Lenguaje:** Kotlin.
+- **Lenguaje:** Java.
 - **Diseño de interfaz:** hecho en XML (`activity_main.xml` y `activity_inicioseccion.xml`).
 - **Layout principal:** `ConstraintLayout` para ubicar los elementos unos respecto de otros.
 - **Navegación:** un `Intent` abre la pantalla de inicio de sesión desde la pantalla principal.
-- **Diseño de borde a borde:** `enableEdgeToEdge()` con márgenes que se ajustan a las barras del sistema.
+- **Diseño de borde a borde:** `EdgeToEdge.enable(this)` con márgenes que se ajustan a las barras del sistema.
 - **SDK:** `minSdk 24`, `targetSdk 37`.
 
 ## Cómo ejecutar
