@@ -18,7 +18,7 @@
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
         app:layout_constraintVertical_bias="0.06"
-        app:srcCompat="@drawable/logo_universidad" />
+        app:srcCompat="@drawable/universidad" />
 
     <ImageView
         android:id="@+id/imageView2"
@@ -30,7 +30,7 @@
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/imageView"
         app:layout_constraintVertical_bias="0.0"
-        app:srcCompat="@drawable/logo_facultad_fcc" />
+        app:srcCompat="@drawable/facultad" />
 
     <!-- Botón para ir a la pantalla de Inicio Sesión -->
     <com.google.android.material.button.MaterialButton
