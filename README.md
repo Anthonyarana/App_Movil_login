@@ -1,6 +1,6 @@
 # HolaMundo_IS2026_2
 
-Esta es una aplicación de Android para la **Universidad Técnica Estatal de Quevedo (UTEQ)**. Tiene una pantalla principal con los logos de la universidad y de la Facultad de Ciencias de la Computación, y una pantalla de **Inicio de Sesión**. Las dos pantallas usan `ConstraintLayout` y componentes de Material Design.
+Esta es una aplicación que tiene una pantalla principal de login, y una pantalla de **Inicio de Sesión**. Las dos pantallas usan `ConstraintLayout` y componentes de Material Design.
 
 <p align="center">
   <img src="capturas/pantalla_principal.png" width="280" alt="Pantalla principal">
